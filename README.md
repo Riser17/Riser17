@@ -27,7 +27,7 @@ In short, HealthCare Solution is a powerful healthcare platform that offers a ra
 
 ### Tech-Stack:
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/gifs/cartoon-computer-laptop-UEJ6DQQp68LJSnyaBb" width="100"/>
 </div>
 
 Looking forward to connecting with fellow developers and tech enthusiasts. Let's build something amazing together! 💻✨
