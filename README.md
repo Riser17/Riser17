@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Riser17&style=flat-square&color=blue" alt=""/>
+</div>
 ### Hi there! 👋
 
 I'm Harshvardhan Rathore, a passionate software developer with a strong foundation in web and mobile technologies. My expertise lies in crafting efficient and scalable solutions using various tools and frameworks.
@@ -22,12 +25,38 @@ In short, HealthCare Solution is a powerful healthcare platform that offers a ra
 
 #### Let's Connect:
 
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/harshvardhan-rathore-a19170190/).
+- <div style="text-align: center;" >📫 Reach out to me on <a  href="https://www.linkedin.com/in/harshvardhan-rathore-a19170190/">
+    <img align="middle" class="width: 50%" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a></div>
 - Email: harshmaharajpura1998@gmail.com
 
 ### Tech-Stack:
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/cartoon-computer-laptop-UEJ6DQQp68LJSnyaBb/giphy.gif" width="100"/>
+<div  style="display: flex;">
+  <div style="text-align: center; float:left">
+    <img src="https://img.icons8.com/color/452/react-native.png" alt="React Native" style="width: 50px; height: auto;">
+    <div>React Native</div>
+  </div>
+  <div style="text-align: center;float:left">
+    <img src="https://img.icons8.com/color/452/javascript.png" alt="JavaScript" style="width: 50px; height: auto;">
+    <div>JavaScript</div>
+  </div>
+  <div style="text-align: center;float:left">
+    <img src="https://img.icons8.com/color/452/react-native.png" alt="ReactJS" style="width: 50px; height: auto;">
+    <div>ReactJS</div>
+  </div>
+  <div style="text-align: center;float:left">
+    <img src="https://img.icons8.com/color/452/nodejs.png" alt="Node.js" style="width: 50px; height: auto;">
+    <div>Node.js</div>
+  </div>
+  <div style="text-align: center;float:left">
+    <img src="https://img.icons8.com/color/452/html-5.png" alt="HTML" style="width: 50px; height: auto;">
+    <div>HTML</div>
+  </div>
+  <div style="text-align: center;float:left">
+    <img src="https://img.icons8.com/color/452/css3.png" alt="CSS" style="width: 50px; height: auto;">
+    <div>CSS</div>
+  </div>
 </div>
+
 
 Looking forward to connecting with fellow developers and tech enthusiasts. Let's build something amazing together! 💻✨
