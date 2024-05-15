@@ -31,7 +31,7 @@ In short, HealthCare Solution is a powerful healthcare platform that offers a ra
 - Email: harshmaharajpura1998@gmail.com
 
 ### Tech-Stack:
-<div  style="display: flex;">
+<span class="display: flex" style="display: flex,background-color:'red'">
   <div style="text-align: center; float:left">
     <img src="https://img.icons8.com/color/452/react-native.png" alt="React Native" style="width: 50px; height: auto;">
     <div>React Native</div>
@@ -56,7 +56,7 @@ In short, HealthCare Solution is a powerful healthcare platform that offers a ra
     <img src="https://img.icons8.com/color/452/css3.png" alt="CSS" style="width: 50px; height: auto;">
     <div>CSS</div>
   </div>
-</div>
+</span>
 
 
 Looking forward to connecting with fellow developers and tech enthusiasts. Let's build something amazing together! 💻✨
