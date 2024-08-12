@@ -39,11 +39,9 @@ In short, HealthCare Solution is a powerful healthcare platform that offers a ra
 
 
 <p align="center">
-  <span>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> 
   </a>
-  </span>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React JS" width="40" height="40"/> 
   </a>
@@ -59,7 +57,7 @@ In short, HealthCare Solution is a powerful healthcare platform that offers a ra
 </p>
 
 <p align="center">
-  React Native | React JS | NodeJs | MongoDB | Supabase
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>  React Native | React JS | NodeJs | MongoDB | Supabase
 </p>
 
 
