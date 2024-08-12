@@ -37,29 +37,40 @@ In short, HealthCare Solution is a powerful healthcare platform that offers a ra
 
 ### Tech-Stack:
 
-<h3 align="center">Tech Stack</h3>
+
 
 <p align="center">
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> 
+    <div style="padding: 10px; display: inline-block;">
+      <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> 
+    </div>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React JS" width="40" height="40"/> 
+    <div style="padding: 10px; display: inline-block;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React JS" width="40" height="40"/> 
+    </div>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/> 
+    <div style="padding: 10px; display: inline-block;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/> 
+    </div>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
+    <div style="padding: 10px; display: inline-block;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
+    </div>
   </a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="40" height="40"/> 
+    <div style="padding: 10px; display: inline-block;">
+      <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="40" height="40"/> 
+    </div>
   </a>
 </p>
 
 <p align="center">
   React Native | React JS | NodeJs | MongoDB | Supabase
 </p>
+
 
 
 
