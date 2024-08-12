@@ -39,7 +39,7 @@ In short, HealthCare Solution is a powerful healthcare platform that offers a ra
 
 
 
-<p align="center" style="justifyContent:'space-between'">
+<p align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 20px; padding: 10px;">
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> 
   </a>
