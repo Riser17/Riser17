@@ -37,32 +37,29 @@ In short, HealthCare Solution is a powerful healthcare platform that offers a ra
 
 ### Tech-Stack:
 
-<div style="display: flex; justify-content: center; align-items: center; background-color: red;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/452/react-native.png" alt="React Native" style="width: 50px; height: auto;">
-    <div>React Native</div>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/452/javascript.png" alt="JavaScript" style="width: 50px; height: auto;">
-    <div>JavaScript</div>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/452/react-native.png" alt="ReactJS" style="width: 50px; height: auto;">
-    <div>ReactJS</div>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/452/nodejs.png" alt="Node.js" style="width: 50px; height: auto;">
-    <div>Node.js</div>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/452/html-5.png" alt="HTML" style="width: 50px; height: auto;">
-    <div>HTML</div>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/452/css3.png" alt="CSS" style="width: 50px; height: auto;">
-    <div>CSS</div>
-  </div>
-</div>
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React JS" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="40" height="40"/> 
+  </a>
+</p>
+
+<p align="center">
+  React Native | React JS | NodeJs | MongoDB | Supabase
+</p>
 
 
 
