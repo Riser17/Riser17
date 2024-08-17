@@ -15,6 +15,9 @@ I'm Harshvardhan Rathore, a passionate software developer with a strong foundati
 - **JavaScript:** Proficient in both front-end and back-end JavaScript development.
 
 #### What I'm Currently Up To:
+
+- HealthyHabitApp: This project is a mobile application developed using React Native for the RevenueCat Ship-a-Ton hackathon. The app is designed to help users track and improve their daily habits, including monitoring their steps, distance walked, and flights climbed. The app also includes features like BMI calculation and graphical representation of habits such as drinking water, taking breaks, and walking.
+
 - 📷 Snap-camera: This project is a React Native-based Snapchat Camera Clone. The app provides various camera tools, such as zoom, flash, and torch options, and allows users to capture and filter images with ease.
   
 - 🏠 Airbnb Clone React Native app: It's a project aimed at replicating the functionalities of Airbnb, allowing users to browse listings, view detailed property pages, and utilize features such as map view and user authentication.
