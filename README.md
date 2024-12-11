@@ -22,11 +22,11 @@ I'm Harshvardhan Rathore, a passionate software developer with a strong foundati
   
 - 🏠 Airbnb Clone React Native app: It's a project aimed at replicating the functionalities of Airbnb, allowing users to browse listings, view detailed property pages, and utilize features such as map view and user authentication.
   
-- 🔴 Working on building the Go Live app, a live streaming platform designed to enable users to broadcast live video content to their audience in real-time. It provides a seamless and intuitive interface for streamers to start broadcasting with just a few clicks, allowing viewers to engage with the content through live comments and reactions.
+- 🔴 Go Live app, a live streaming platform designed to enable users to broadcast live video content to their audience in real-time. It provides a seamless and intuitive interface for streamers to start broadcasting with just a few clicks, allowing viewers to engage with the content through live comments and reactions.
 
-- 👟 Working on a Nike Clone React Native app – This project is a React Native application that serves as a clone of a Nike product catalog and shopping cart system. The app allows users to browse a list of Nike products, view individual product details with a carousel, and add products to a shopping cart. The shopping cart also displays a list of items with options to increase or decrease quantities.
+- 👟 Nike Clone React Native app – This project is a React Native application that serves as a clone of a Nike product catalog and shopping cart system. The app allows users to browse a list of Nike products, view individual product details with a carousel, and add products to a shopping cart. The shopping cart also displays a list of items with options to increase or decrease quantities.
 
-- 🏥  Working on HealthCare Solution app Project – Healthcare application that aims to provide users with easy and convenient access to medical services. This app allows users to search for healthcare providers in their area, book appointments with doctors, and access their medical records.
+- 🏥  Worked on HealthCare Solution app Project – Healthcare application that aims to provide users with easy and convenient access to medical services. This app allows users to search for healthcare providers in their area, book appointments with doctors, and access their medical records.
 
 In short, HealthCare Solution is a powerful healthcare platform that offers a range of services to users, with the API enabling developers to take advantage of its features and build custom applications that leverage its functionality.
 - 💬 Open to collaboration and exploring new opportunities in the tech world.
