@@ -8,7 +8,7 @@ I'm Harshvardhan Rathore, a passionate software developer with a strong foundati
 
 #### Tech Stack:
 
-- **React Native:** Building cross-platform mobile applications that deliver a native-like experience.
+- **React Native:** Building cross-platform mobile applications that deliver a native-like experience.(Expo and CLI)
 - **React:** Developing interactive and responsive user interfaces for web applications.
 - **Node.js:** Backend development for creating robust and scalable server-side applications.
 - **HTML & CSS:** Crafting clean, visually appealing front-end code for seamless user experiences.
@@ -16,7 +16,7 @@ I'm Harshvardhan Rathore, a passionate software developer with a strong foundati
 
 #### What I'm Currently Up To:
 
-- 🏃🏻‍♂️ HealthyHabitApp: This project is a mobile application developed using React Native for the RevenueCat Ship-a-Ton hackathon. The app is designed to help users track and improve their daily habits, including monitoring their steps, distance walked, and flights climbed. The app also includes features like BMI calculation and graphical representation of habits such as drinking water, taking breaks, and walking.
+- 🏃🏻‍♂️ HealthyHabitApp: This project is a mobile application developed using React Native.  The app is designed to help users track and improve their daily habits, including monitoring their steps, distance walked, and flights climbed(Intergrated with Apple HeakthKit SDK). The app will includes features like BMI calculation and graphical representation of habits such as drinking water, taking breaks, and walking.
 
 - 📷 Snap-camera: This project is a React Native-based Snapchat Camera Clone. The app provides various camera tools, such as zoom, flash, and torch options, and allows users to capture and filter images with ease.
   
