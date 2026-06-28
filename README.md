@@ -17,6 +17,9 @@ I'm Harshvardhan Rathore, a passionate software developer with a strong foundati
 #### What I'm Currently Up To:
 
 - 👾 miniDebug Tool: miniDebug is a lightweight macOS utility designed for React Native developers to control iOS and Android simulators directly from a GUI, eliminating the need to switch back and forth between the terminal and the simulator for common tasks.
+  
+- 🧘 Posture Companion App(MacOS)
+A cute, gamified macOS desktop companion that helps you maintain a healthy posture using real-time computer vision. Your pet's mood and evolution depend entirely on how straight you sit!
  
 - 🏃🏻‍♂️ HealthyHabitApp: This project is a mobile application developed using React Native.  The app is designed to help users track and improve their daily habits, including monitoring their steps, distance walked, and flights climbed(Intergrated with Apple HeakthKit SDK). The app will includes features like BMI calculation and graphical representation of habits such as drinking water, taking breaks, and walking.
 
