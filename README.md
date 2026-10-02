@@ -16,6 +16,8 @@ I'm Harshvardhan Rathore, a passionate software developer with a strong foundati
 
 #### What I'm Currently Up To:
 
+- 🧾 PDF AI RAG APP: Built a PDF AI RAG app  — upload a PDF, ask it questions, get answers with cited sources.
+
 - 👾 miniDebug Tool: miniDebug is a lightweight macOS utility designed for React Native developers to control iOS and Android simulators directly from a GUI, eliminating the need to switch back and forth between the terminal and the simulator for common tasks.
   
 - 🧘 Posture Companion App(MacOS)
